@@ -1,5 +1,5 @@
 # time-series-analysis
-Multivariate time series analysis to forecast foreign exchange rate
+Multivariate and Univariate time series analysis to forecast foreign exchange rate
 <br>
 <br>
 <img src='Screenshot 2021-10-29 at 09-53-01 main - Jupyter Notebook.png' width=700 height=500>
